@@ -1,0 +1,14 @@
+MSP430 assembly interpreter in Scala
+
+This is an attempt to implement an MSP430 assembly interpreter in Scala.
+
+My final year university project was to implement an MSP430 emulator. It
+didn't work out very well, so on and off since 2007, I've toyed with
+re-implementing it from scratch; though it's more of an excuse to try out
+new languages (in this case, Scala).
+
+This may not get very far, so you probably shouldn't rely on it.
+
+(For the curious - the MSP430 is a 16-bit microprocessor from Texas
+Instruments, which at an assembly level is surprisingly similar to the
+venerable PDP-11 of Unix fame).
